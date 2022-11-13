@@ -1,0 +1,13 @@
+.notice-container {
+    background-color: whitesmoke;
+    left: 25%;
+    width: 50%;
+    position: relative;
+    border: #9e9e9e 2px solid;
+}
+
+
+.notice-message {
+    color: red;
+    text-align: center;
+}
